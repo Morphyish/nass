@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to nass 👋</h1>
+<h1 align="center">Not A Simple Slider</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/Morphyish" target="_blank">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Not A Simple Slider
+> A web app to create and play slides, powered by Sapper and hosted on Firebase
 
 ## Install
 
