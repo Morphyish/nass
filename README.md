@@ -14,10 +14,16 @@
 npm install
 ```
 
+## Development
+
+```sh
+npm run dev
+```
+
 ## Usage
 
 ```sh
-npm run start
+npm run export
 ```
 
 ## Run tests
