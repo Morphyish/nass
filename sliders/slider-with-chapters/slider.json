@@ -1,0 +1,10 @@
+{
+  "title": "Slider with chapters",
+  "background": "../../themes/zenika_svelte/background",
+  "theme": "../../themes/zenika_svelte/theme",
+  "slides": [
+    "1-slides",
+    "2-slides",
+    "3-slides"
+  ]
+}
